@@ -6,7 +6,6 @@
  * main - asigning random number to int
  * it execute and print
  *Return: 0
-
  */
 int main(void)
 {
